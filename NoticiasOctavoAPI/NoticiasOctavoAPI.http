@@ -1,0 +1,6 @@
+@NoticiasOctavoAPI_HostAddress = http://localhost:5263
+
+GET {{NoticiasOctavoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
